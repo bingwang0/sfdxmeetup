@@ -14,7 +14,7 @@ Trailblazer Community - [Salesforce DX Group](https://success.salesforce.com/_ui
 
 
 ## Description of Files and Directories
-
+This repo has the folder structure of a Salesforce DX project, so you can simply force:create:project over a local clone then immediately push code to scratch orgs.
 
 ## Issues
 

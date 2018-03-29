@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    Hello Lightning!
+
+    <lightning:button variant="brand" label="Submit"></lightning:button>
+</aura:component>	
